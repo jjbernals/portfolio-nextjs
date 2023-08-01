@@ -45,7 +45,7 @@ const gamestore = () => {
             <button className='px-8 py-2 mt-4 mr-8'>Repositorio</button>
           </a>
           <a
-            href='https://property-finder-development.web.app/gamestore.jsx'
+            href='https://game-store-cyan-gamma.vercel.app/'
             target='_blank'
             rel='noreferrer'
           >

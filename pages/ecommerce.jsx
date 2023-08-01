@@ -44,7 +44,7 @@ const ecommerce = () => {
             <button className='px-8 py-2 mt-4 mr-8'>Repositorio</button>
           </a>
           <a
-            href='https://cryptobase-yt.web.app/'
+            href='https://e-commerce-one-snowy.vercel.app/'
             target='_blank'
             rel='noreferrer'
           >
